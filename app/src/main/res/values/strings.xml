@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">NewsAggregator</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_example" translatable="false">Example action</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="btnNextSelectResource" translatable="false">Next</string>
+    <string name="textSelectResource">Will choose a resource</string>
+    <string name="textSelectModules">Выберите то, что вам интересно</string>
+    
+    <string-array name="setings">
+        <item>Хранить новости</item>
+        <item>Автообновление</item>
+    </string-array>
+    <string name="title_settings_saveNews">Хранить новости</string>
+    <string name="title_settings_autoupdate">Автообновление</string>
+
+    <string-array name="settings_saveNews">
+        <item>12 часов</item>
+        <item>1 день</item>
+        <item>2 дня</item>
+        <item>3 дня</item>
+    </string-array>
+    
+    <string-array name="settings_autoupdate">
+        <item>Никогда</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>3 часа</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+    </string-array>
+
+    <string name="news_all_en" translatable="false">All news</string>
+    <string name="news_all_ru">Все новости</string>
+    <string name="news_articles_en" translatable="false">Articles</string>
+    <string name="news_articles_ru">Статьи</string>
+    <string name="news_capital_en" translatable="false">Capital</string>
+    <string name="news_capital_ru">Столица</string>
+    <string name="news_culture_en" translatable="false">Culture</string>
+    <string name="news_culture_ru">Культура</string>
+    <string name="news_economics_en" translatable="false">Economics</string>
+    <string name="news_economics_ru">Экономика</string>
+    <string name="news_interview_en">Interview</string>
+    <string name="news_interview_ru">Интервью</string>
+    <string name="news_news_en">News</string>
+    <string name="news_news_ru">Новости</string>
+    <string name="news_photo_en">Photographic</string>
+    <string name="news_photo_ru">Фотоматериалы</string>
+    <string name="news_politics_en">Politics</string>
+    <string name="news_politics_ru">Политика</string>
+    <string name="news_smi_en">Foreign press</string>
+    <string name="news_smi_ru">Зарубежная пресса</string>
+    <string name="news_society_en">Society</string>
+    <string name="news_society_ru">Общество</string>
+    <string name="news_sport_en">Sport</string>
+    <string name="news_sport_ru">Спорт</string>
+    <string name="news_top_en">Main materials</string>
+    <string name="news_top_ru">Главные материалы</string>
+    <string name="news_ua_all_en">Ukrainian version. All materials</string>
+    <string name="news_ua_all_ru">Украинская версия. Все материалы</string>
+    <string name="news_ua_top_en">Ukrainian version. Main materials</string>
+    <string name="news_ua_top_ru">Украинская версия. Главные материалы</string>
+    <string name="news_video_en">Video</string>
+    <string name="news_video_ru">Видеоматериалы</string>
+    <string name="news_world_en">World</string>
+    <string name="news_world_ru">Мир</string>
+
+    <string name="news_en">news</string>
+    <string name="news_ru">Новости</string>
+    <string name="culture_ru">Культура</string>
+    <string name="economics_ru">Экономика</string>
+    <string name="interview_ru">Интервью</string>
+    <string name="world_ru">Мир</string>
+    <string name="video_ru">Видео</string>
+
+
+    <string name="technologies_en">technologies</string>
+    <string name="technologies_ru">Технологии</string>
+    <string name="design_en" translatable="false">design</string>
+    <string name="design_ru">Дизайн</string>
+    <string name="foto_en" translatable="false">foto</string>
+    <string name="foto_ru">Фото</string>
+    <string name="button_clicked" translatable="false">hello</string>
+    <string name="sport_en">sport</string>
+    <string name="sport_ru">Спорт</string>
+    <string name="business_en" translatable="false">business</string>
+    <string name="business_ru">Бизнес</string>
+    <string name="style_en">style</string>
+    <string name="style_ru">Стиль</string>
+    <string name="travelings_en">travelings</string>
+    <string name="travelings_ru">Путешествия</string>
+    <string name="politics_en">politics</string>
+    <string name="politics_ru">Политика</string>
+    <string name="meal_en" translatable="false">meal</string>
+    <string name="meal">Еда</string>
+    <string name="music_en" translatable="false">music</string>
+    <string name="music_ru">Музыка</string>
+    <string name="cinema_en" translatable="false">cinema</string>
+    <string name="cinema_ru">Кино</string>
+    <string name="games_en" translatable="false">games</string>
+    <string name="games_ru">Игры</string>
+    <string name="cars_en" translatable="false">cars</string>
+    <string name="cars_ru">Автомобили</string>
+    <string name="hello" translatable="false">Hello</string>
+    <string name="enter_your_login">Введите Ваш логин</string>
+    <string name="enter_your_email">Введите Ваш email</string>
+    <string name="enter_your_password">Введите Ваш пароль:</string>
+    <string name="show_password">Показать пароль</string>
+    <string name="enter">Войти</string>
+    <string name="enterReg">Зарегистрироваться</string>
+    <string name="error_fill_field">Ошибка ввода!</string>
+    <string name="please_wait">Пожалуйста, подождите...</string>
+    <string name="textInputAcaunt">Есть акаунт?</string>
+    <string name="textInput">Войти</string>
+    <string name="temperaturaTodayText">Температура сегодня:</string>
+    <string name="wearherBtn">Узнать погоду</string>
+    <string name="backTextBtn">Назад</string>
+    <string name="cancelTextBtn">Отмена</string>
+    <string name="okTextBtn">ОК</string>
+    <string name="saveTextBtn">Сохранить</string>
+    <string name="myCity">Днепропетровск</string>
+    <string name="title_activity_browser_news">BrowserNews</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="title_activity_test">Test</string>
+</resources>
